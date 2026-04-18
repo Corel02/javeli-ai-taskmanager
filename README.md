@@ -9,9 +9,9 @@ Combining:
 - Cloud integrations (Google Sheets & Notion)  
 - Interactive Telegram UI (commands + inline actions)  
 - Deployment and Ports (Python Anywhere)
-- 
+  
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%" alt="background"/>
+  <img src="[https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJsOXB5MzdzMGxucm90bXh6cTdvY3llYzE3aWhkN2txbzYwMjV0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hmCdMaXUewzcroADq/giphy.gif)" width="100%" alt="background"/>
 </div>
 
 ---
