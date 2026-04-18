@@ -1,4 +1,4 @@
-# javeli-ai-taskmanager
+# JavEli AI TaskManager
 
 
 <p align="center">
