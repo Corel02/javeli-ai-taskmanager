@@ -11,7 +11,7 @@ Combining:
 - Deployment and Ports (Python Anywhere)
   
 <div align="center">
-  <img src="[https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJsOXB5MzdzMGxucm90bXh6cTdvY3llYzE3aWhkN2txbzYwMjV0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hmCdMaXUewzcroADq/giphy.gif)" width="100%" alt="background"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwzaW4wd3ltdWl1d2tmZnR3YWdmdGJ0dW5iYW85azViN2d2YjU5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qRdGR2H9EtiXUJXorm/giphy.gif" width="100%" alt="background"/>
 </div>
 
 ---
