@@ -1,8 +1,11 @@
 # javeli-ai-taskmanager
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Yt09iFvD9u5AQ/giphy.gif" width="800" alt="background"/>
+  <img src="https://media.giphy.com/media/iaWJ7VY7fzw4MG72Jx/giphy.gif" width="800" alt="background"/>
 </p>
+
+
 
 
 ---
